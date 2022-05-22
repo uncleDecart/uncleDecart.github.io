@@ -1,0 +1,21 @@
+baseURL: http://uncleDecart.github.io
+googleAnalytics: G-N5FJ7213R2
+languageCode: en-us
+title: Pavel Abramov
+theme: "PaperMod"
+enableEmoji: true
+
+params:
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >
+      My name is Pavel Abramov. I'm doing my MSc in Data Science at [LMU Munich](https://www.lmu.de/en/index.html).
+      Interested in Federated Learning. Working on [EVE](https://github.com/lf-edge/eve) project under Linux Foundation.
+      I write about Internet of Things, Data Science. Subscribe to email newsletter to get unregular updates from me.
+  socialIcons:
+    - name: github
+      url: "https://github.com/uncleDecart"
+    - name: twitter
+      url: "https://twitter.com/uncle_decart"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/pavelabramov"
